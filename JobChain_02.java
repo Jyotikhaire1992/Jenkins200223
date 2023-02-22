@@ -1,8 +1,9 @@
-public class HelloWorld {
+//package demo;
+
+public class JobChain_02 {
 
 	public static void main(String[] args) {
-
-		System.out.println("This is child job chaining ");
+		System.out.println("This is child job chaining");
 	}
 
 }
