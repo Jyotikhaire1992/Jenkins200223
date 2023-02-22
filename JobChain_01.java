@@ -1,10 +1,8 @@
-package demo;
-
 public class HelloWorld {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello World, Welcom to Jenkins ");
+		System.out.println("This is parent job chaining ");
 	}
 
 }
